@@ -65,3 +65,5 @@ J'ai quelques conseils que j'aurais aimé avoir avant de commencer Dante :
 - Notez tout ce que vous trouvez, notamment faites-vous une liste de mots de passe/utilisateurs.
 
 - [Exegol](https://exegol.readthedocs.io/en/latest/index.html) est un bel atout et apporte un côté professionnel à la complétion du prolab.
+
+- N'oubliez faire tout le processusse de post-exploitation sur une machine compromise.(recolte des creds, etc...)
